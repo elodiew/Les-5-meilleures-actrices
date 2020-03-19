@@ -1,7 +1,7 @@
-# Les-5-meilleures-actrices
- 
-Projet de formation Développeur Web
-Apprendre jQuery et créer une page Web interactive
+The-five-best-actresses
+
+Web Developer Training Project
+Learn jQuery and create an interactive web page
 
 - HTML5
 - CSS3
